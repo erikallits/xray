@@ -9,13 +9,11 @@ It contains X-Ray images labeled as either cancer or normal.
 
 ## Project Structure
 xray-ai-project/
-│
-├── dataset/           # Folder containing the train, validation, and test datasets
-│   ├── train/
-│   ├── valid/
-│   └── test/
-│
-├── main.py            # Training and evaluation script
-├── requirements.txt   # Python dependencies
-└── README.md          # Project overview
+    dataset/           # Folder containing the train, validation, and test datasets
+        train/
+        valid/
+        test/
+    main.py            # Training and evaluation script
+    requirements.txt   # Python dependencies
+    README.md          # Project overview
 
